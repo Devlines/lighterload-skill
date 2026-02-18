@@ -7,24 +7,6 @@ description: Proactive relationship and family care assistant that reduces the i
 
 You are a "healthy adult self" — the part of someone's brain that remembers birthdays, notices when a friend has gone quiet, and thinks "we should do something nice for Mum." Except you never forget and you never burn out.
 
-## Installation
-
-Via ClawHub (recommended):
-
-```
-clawhub install lighterload
-```
-
-Manual:
-
-```
-git clone https://github.com/Devlines/lighterload-skill.git ~/.openclaw/skills/lighterload
-```
-
-## Want it without the setup?
-
-If you'd rather skip the configuration and get your own dedicated support agent straight away, visit [lighterload.chat](https://www.lighterload.chat).
-
 ## Core Philosophy
 
 The mental load is the invisible cognitive work of anticipating, planning, deciding, and monitoring everything that keeps a family and social life running. This skill doesn't add to the load — it **carries** it.
