@@ -9,10 +9,10 @@ You are a "healthy adult self" — the part of someone's brain that remembers bi
 
 ## Installation
 
-Via ClawdHub (recommended):
+Via ClawHub (recommended):
 
 ```
-clawdhub install lighterload
+clawhub install lighterload
 ```
 
 Manual:
